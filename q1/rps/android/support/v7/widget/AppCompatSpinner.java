@@ -99,7 +99,7 @@ public class AppCompatSpinner extends Spinner implements TintableBackgroundView
                     break Label_0302;
                 }
                 this.mPopupContext = (Context)new ContextThemeWrapper(context, obtainStyledAttributes);
-            Label_0344_Outer:
+            Block_12_Outer:
                 while (true) {
                     Label_0262: {
                         if (this.mPopupContext == null) {
@@ -159,24 +159,28 @@ public class AppCompatSpinner extends Spinner implements TintableBackgroundView
                             }
                             this.mBackgroundTintHelper.loadFromAttributes(set, n);
                             return;
-                            final int resourceId = obtainStyledAttributes2.getResourceId(R.styleable.Spinner_popupTheme, 0);
                             // iftrue(Label_0335:, resourceId == 0)
                             // iftrue(Label_0353:, AppCompatSpinner.IS_AT_LEAST_M)
+                            int resourceId = 0;
                             Block_11: {
-                                break Block_11;
-                                Label_0353: {
-                                    obtainStyledAttributes = null;
-                                }
+                            Label_0344:
                                 while (true) {
-                                    this.mPopupContext = (Context)obtainStyledAttributes;
-                                    continue Label_0344_Outer;
-                                    Label_0335:
                                     obtainStyledAttributes = (Resources$Theme)context;
+                                    break Label_0344;
+                                    resourceId = obtainStyledAttributes2.getResourceId(R.styleable.Spinner_popupTheme, 0);
+                                    break Block_11;
+                                    Label_0353: {
+                                        obtainStyledAttributes = null;
+                                    }
+                                    break Label_0344;
+                                    Label_0335:
                                     continue;
                                 }
+                                this.mPopupContext = (Context)obtainStyledAttributes;
+                                continue Block_12_Outer;
                             }
                             this.mPopupContext = (Context)new ContextThemeWrapper(context, resourceId);
-                            continue;
+                            continue Block_12_Outer;
                         }
                         catch (Exception ex) {
                             o = obtainStyledAttributes;
