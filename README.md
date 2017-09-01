@@ -8,3 +8,4 @@
 |2|Crypto|[Unzip the file](q2/q2.md)|100pt|O|
 |3|Stegano|[SECCON WARS 2015](q3/q3.md)|100pt|O|
 |4|Stegano|[Steganography 1](q4/q4.md)|100pt|O|
+|5|Stegano|[Steganography 2](q5/q5.md)|100pt|O|
