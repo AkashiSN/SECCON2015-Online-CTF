@@ -1,6 +1,10 @@
 # SECCON2015-Online-CTF
 
-[SECCON2015-Online-CTF](https://github.com/SECCON/SECCON2015_online_CTF) -WriteUp-
+[SECCON2015-Online-CTF](https://github.com/SECCON/SECCON2015_online_CTF) 
+
+これはコンテスト終了後に解いたものです。
+
+This is what I solved after the contest.
 
 |#|Category|Title|Point|WriteUp|
 |-:|:-------|:----|:----|:-----|
@@ -11,3 +15,5 @@
 |5|Stegano|[Steganography 2](q5/q5.md)|100pt|O|
 |6|Stegano|[Steganography 3](q6/q6.md)|100pt|O|
 |7|Unknown|[4042](q7/q7.md)|100pt|O|
+|8|Unknown|[Command-Line Quiz](q8/q8.md)|100pt||
+|9|Web_Network|[Connect the server](q9/q9.md)|100pt||
