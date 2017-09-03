@@ -16,4 +16,4 @@ This is what I solved after the contest.
 |6|Stegano|[Steganography 3](q6/q6.md)|100pt|O|
 |7|Unknown|[4042](q7/q7.md)|100pt|O|
 |8|Unknown|[Command-Line Quiz](q8/q8.md)|100pt||
-|9|Web_Network|[Connect the server](q9/q9.md)|100pt||
+|9|Web_Network|[Connect the server](q9/q9.md)|100pt|O|
