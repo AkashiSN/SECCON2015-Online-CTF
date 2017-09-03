@@ -10,3 +10,4 @@
 |4|Stegano|[Steganography 1](q4/q4.md)|100pt|O|
 |5|Stegano|[Steganography 2](q5/q5.md)|100pt|O|
 |6|Stegano|[Steganography 3](q6/q6.md)|100pt|O|
+|7|Unknown|[4042](q7/q7.md)|100pt|O|
