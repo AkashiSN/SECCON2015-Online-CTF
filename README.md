@@ -18,3 +18,4 @@ This is what I solved after the contest.
 |8|Unknown|[Command-Line Quiz](q8/q8.md)|100pt||
 |9|Web_Network|[Connect the server](q9/q9.md)|100pt|O|
 |10|Web_Network|[Entry form](q10/q10.md)|100pt||
+|10|Web_Network|[Bonsai XSS Revolutions](q11/q11.md)|200pt||
