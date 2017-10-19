@@ -20,3 +20,4 @@ This is what I solved after the contest.
 |10|Web_Network|[Entry form](q10/q10.md)|100pt||
 |11|Web_Network|[Bonsai XSS Revolutions](q11/q11.md)|200pt|O|
 |12|Web_Network|[Fragment2](q12/q12.md)|200pt|O|
+|13|Unknown|[QR puzzle (Windows)](q13/q13.md)|200pt|O|
